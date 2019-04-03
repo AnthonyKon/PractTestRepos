@@ -13,6 +13,8 @@ namespace PractTestApp2
 
             Console.WriteLine("Henlo");
             Console.ReadLine();
+            Console.WriteLine("Henlo 2.0");
+            Console.ReadLine();
         }
     }
 }
